@@ -1,7 +1,13 @@
 # BACKLOG
 
 ## Siguiente
-- Primera sesión: mapa grueso del dominio IA (5-6 áreas) y elegir la primera ficha
+- Terminar ficha: Límites del modelo (cierre de Chema)
+- Después: Instrucciones que aguantan (área 2 del mapa IA)
+
+## Dominios futuros (sin abrir aún)
+- Navegación
+- Meteorología
+- Astronomía
 
 ## Después
-- (vacío a propósito — se llena con lo que salga de fichas reales)
+- (se llena con lo que salga de fichas reales)
