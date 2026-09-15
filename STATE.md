@@ -3,13 +3,13 @@
 Última actualización: 2026-09-15
 
 ## Dominio actual
-IA (por confirmar en la primera sesión)
+IA
 
 ## Ficha en curso
-Ninguna
+Límites del modelo (estudiar + deberes en curso)
 
 ## Último cierre
 Ninguno
 
 ## Notas
-Bootstrap mínimo. Sin taxonomías ni carpetas extra. La estructura emergerá de fichas reales.
+Mapa grueso IA entregado. Dominios futuros anotados en BACKLOG (navegación, meteorología, astronomía). Sin taxonomías ni carpetas extra.
